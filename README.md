@@ -5,7 +5,7 @@ A web application built using Streamlit to predict the **selling price of a hous
 ---
 
 ## 🚀 Live Demo
-🧪 This app can be deployed locally or on [Streamlit Cloud]((https://house-price-predictor-qtpmnmkx27y5fko28lqnfz.streamlit.app/)).
+🧪 This app can be deployed locally or on [Streamlit Cloud](https://house-price-predictor-qtpmnmkx27y5fko28lqnfz.streamlit.app/).
 
 ---
 

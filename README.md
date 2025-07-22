@@ -51,34 +51,6 @@ Trained using `LinearRegression` from scikit-learn.
 
 ---
 
-## 🛠️ Setup Instructions
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/your-username/house-price-predictor.git
-cd house-price-predictor
-```
-
-2. **Install dependencies**
-```bash
-pip install -r requirements.txt
-```
-
-3. **Add the dataset**
-Download `train.csv` from Kaggle and place it in the project folder.
-
-4. **Train the model**
-```bash
-python train_model.py
-```
-
-5. **Run the Streamlit app**
-```bash
-streamlit run app.py
-```
-
----
-
 ## 📷 Screenshot
 
 > Add a screenshot of your Streamlit app here:
@@ -88,18 +60,10 @@ streamlit run app.py
 
 ---
 
-## ✨ Future Improvements
-
-- Add more input features (location, year built, etc.)
-- Use advanced models like `XGBoost` or `RandomForest`
-- Include feature importance or prediction confidence
-- Add data visualizations
-
----
 
 ## 📜 License
 
-MIT License – use freely and modify as needed.
+MIT 
 
 ---
 

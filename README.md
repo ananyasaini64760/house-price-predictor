@@ -54,9 +54,9 @@ Trained using `LinearRegression` from scikit-learn.
 ## 📷 Screenshot
 
 > Add a screenshot of your Streamlit app here:
-> ```
-> ![Screenshot](screenshot.png)
-> ```
+> 
+> [App Screenshot](house-price-predictor/screenshot.png)
+> 
 
 ---
 

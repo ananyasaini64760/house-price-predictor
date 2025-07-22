@@ -53,7 +53,6 @@ Trained using `LinearRegression` from scikit-learn.
 
 ## 📷 Screenshot
 
-> Add a screenshot of your Streamlit app here:
 > 
 > [App Screenshot](screenshot.png)
 > 

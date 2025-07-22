@@ -55,7 +55,7 @@ Trained using `LinearRegression` from scikit-learn.
 
 > Add a screenshot of your Streamlit app here:
 > ```
-> ![App Screenshot](screenshot.png)
+> ![Screenshot](screenshot.png)
 > ```
 
 ---
